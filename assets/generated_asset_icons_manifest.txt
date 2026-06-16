@@ -1,0 +1,11 @@
+weaponStart=0
+weaponCount=96
+equipStart=96
+equipCount=112
+itemStart=208
+itemCount=128
+skillStart=336
+skillCount=60
+cols=16
+cell=128
+total=396
